@@ -4,7 +4,9 @@
 
 This project showcases the implementation of graph algorithms, including A* Search, Breadth-First Search (BFS), and a specialized application problem involving teleportation across star systems. The focus is on efficiently finding optimal paths in complex networks, leveraging the unique characteristics of A* Search to prioritize nodes that are not only close to the origin but also in the direction of the target.
 
-## Files
+## Project Files
+
+- graph_algorithms.py contains full implementaion
 
 ## Background
 
