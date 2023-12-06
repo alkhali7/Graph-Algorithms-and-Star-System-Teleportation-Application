@@ -1,6 +1,6 @@
 """
-CSE 331 FS23 (Onsay)
-Graph Project 7
+Graph Algorithms and Star System Teleportation Application
+Shams Alkhalidy
 """
 
 import heapq
@@ -186,7 +186,6 @@ class Graph:
 
     def plot(self) -> None:
         """
-        DO NOT MODIFY
         Creates a plot a visual representation of the graph using matplotlib
         """
 
@@ -447,7 +446,6 @@ class Graph:
 class PriorityQueue:
     """
     Priority Queue built upon heapq module with support for priority key updates
-    Created by Andrew McDonald
     Inspired by https://docs.python.org/2/library/heapq.html
     """
 
