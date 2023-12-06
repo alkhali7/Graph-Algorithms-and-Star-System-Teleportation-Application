@@ -6,7 +6,7 @@ This project showcases the implementation of graph algorithms, including A* Sear
 
 ## Project Files
 
-- graph_algorithms.py contains full implementaion
+- graph_algorithms.py contains full implementaion 
 
 ## Background
 
